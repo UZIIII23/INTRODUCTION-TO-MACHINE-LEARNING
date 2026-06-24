@@ -1,12 +1,12 @@
-Machine Learning Lab 4 : Feature Engineering and Correlation Analysis
+## Machine Learning Lab 4 : Feature Engineering and Correlation Analysis
 
 This repository contains two Jupyter Notebook files developed for Machine Learning Lab 4. The notebooks demonstrate feature extraction and correlation analysis using the AEP (American Electric Power) energy consumption dataset.
 
 Author:
 
-Uzair-ur-Rehman
-Registration No:22JZELE0471
-Department:Electrical Engineering
+* Uzair-ur-Rehman
+* Registration No:22JZELE0471
+* Department:Electrical Engineering
 
 File Contents:
 
@@ -42,16 +42,16 @@ This notebook analyzes relationships between extracted features and energy consu
 
 Tasks:
 
-Calculate feature correlations
-Compare different correlation methods
-Identify important predictors
-Support feature selection for forecasting models
+* Calculate feature correlations
+* Compare different correlation methods
+* Identify important predictors
+* Support feature selection for forecasting models
 
 Correlation Methods:
 
-Pearson Correlation
-Spearman Correlation
-Kendall Correlation
+* Pearson Correlation
+* Spearman Correlation
+* Kendall Correlation
 
 Technologies Used:
 
