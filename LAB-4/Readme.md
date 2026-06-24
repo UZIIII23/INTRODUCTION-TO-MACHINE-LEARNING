@@ -5,8 +5,8 @@ This repository contains two Jupyter Notebook files developed for Machine Learni
 Author:
 
 Uzair-ur-Rehman
-Registration No:22JZELE0471\\
-Department:Electrical Engineering\\
+Registration No:22JZELE0471
+Department:Electrical Engineering
 
 File Contents:
 
