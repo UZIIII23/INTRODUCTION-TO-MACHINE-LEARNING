@@ -82,8 +82,8 @@ How to Run:
 3. Launch Jupyter Notebook:
 Open and run:
 
-Lab_4a_22jzele0471.ipynb`
-Lab_4b_22jzele0471.ipynb`
+* Lab_4a_22jzele0471.ipynb`
+* Lab_4b_22jzele0471.ipynb`
 
 License:
 This project is submitted for academic and educational purposes.
