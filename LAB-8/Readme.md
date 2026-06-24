@@ -1,11 +1,7 @@
 ## Machine Learning Lab 7: Image Dataset Preparation for Computer Vision
-
 ## Overview:
-
 This repository contains the implementation of Lab 7, which focuses on preparing an image dataset for computer vision and deep learning applications. The notebook organizes images into training, validation, and testing sets for crop disease classification.
-
 ## Author:
-
 **Uzair-ur-Rehman**
 **Registration No:** 22JZELE0471
 **Department:** Electrical Engineering
