@@ -4,9 +4,9 @@ Overview:
 This repository contains the implementation of Lab 7, which focuses on preparing an image dataset for computer vision and deep learning applications. The notebook organizes images into training, validation, and testing sets for crop disease classification.
 
 Author:
-Uzair-ur-Rehman
-Registration No:22JZELE0471
-Department:Electrical Engineering
+* Uzair-ur-Rehman
+* Registration No:22JZELE0471
+* Department:Electrical Engineering
 
 
 Repository Contents:
@@ -80,29 +80,6 @@ Technologies Used:
 * Jupyter Notebook
 * OS Module
 * Shutil Module
-
- Dataset Structure:
-
-
-DATASET/
-│
-├── train/
-│   ├── healthy/
-│   ├── Cercospora/
-│   ├── common_rust/
-│   └── northern_leaf_blight/
-│
-├── validation/
-│   ├── healthy/
-│   ├── Cercospora/
-│   ├── common_rust/
-│   └── northern_leaf_blight/
-│
-└── test/
-    ├── healthy/
-    ├── Cercospora/
-    ├── common_rust/
-    └── northern_leaf_blight/
 
 How to Run:
 
