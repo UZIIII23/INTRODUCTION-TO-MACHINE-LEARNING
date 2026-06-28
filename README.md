@@ -1,10 +1,10 @@
 ## Course Information
 
-Course: Introduction to Machine Learning
-Program: B.Sc. Electrical Engineering
-University: University of Engineering and Technology (UET) Peshawar
+* Course: Introduction to Machine Learning
+* Program: B.Sc. Electrical Engineering
+* University: University of Engineering and Technology (UET) Peshawar
 
-Overview:
+### Overview:
 
 This repository contains the complete set of **Machine Learning Laboratory experiments** completed as part of the **Introduction to Machine Learning** course. The labs cover the complete machine learning workflow, starting from Python fundamentals and data preprocessing to deep learning models for computer vision and time-series forecasting.
 
@@ -16,9 +16,9 @@ The repository demonstrates practical implementations of **NumPy**, **Pandas**, 
 * Department: Electrical Engineering
 * Email: [uzairkhattakh@gmail.com](mailto:uzairkhattakh@gmail.com)
 
-Repository Structure:
+### Repository Structure:
 
-### Lab 2 : Introduction to NumPy, Pandas & Matplotlib
+#### Lab 2 : Introduction to NumPy, Pandas & Matplotlib
 
 Topics Covered
 
@@ -34,7 +34,7 @@ Topics Covered
 * Pie Charts
 * Subplots
   
-### Lab 3 : Data Preprocessing
+#### Lab 3 : Data Preprocessing
 
 Topics Covered
 
@@ -45,7 +45,7 @@ Topics Covered
 * Holiday Feature Engineering
 * Dataset Cleaning
 
-### Lab 4 : Feature Engineering & Correlation Analysis
+#### Lab 4 : Feature Engineering & Correlation Analysis
 
 Topics Covered
 
@@ -57,7 +57,7 @@ Topics Covered
 * Kendall Correlation
 * Feature Selection
 
-### Lab 5 : Dataset Preparation
+#### Lab 5 : Dataset Preparation
 
 Topics Covered
 
@@ -67,7 +67,7 @@ Topics Covered
 * Cyclic Feature Engineering
 * Machine Learning Dataset Preparation
 
-### Lab 6 : Linear Regression & Gradient Descent
+#### Lab 6 : Linear Regression & Gradient Descent
 
 Topics Covered
 
@@ -78,7 +78,7 @@ Topics Covered
 * Overfitting
 * Model Evaluation
 
-### Lab 7 : Image Dataset Preparation
+#### Lab 7 : Image Dataset Preparation
 
 Topics Covered
 
@@ -87,7 +87,7 @@ Topics Covered
 * File Handling
 * Dataset Preparation for Computer Vision
 
-### Lab 8 : Custom CNN for Image Classification
+#### Lab 8 : Custom CNN for Image Classification
 
 Topics Covered
 
@@ -97,7 +97,7 @@ Topics Covered
 * Binary Image Classification
 * Model Training & Evaluation
 
-### Lab 9 : Image Augmentation & CNN Classification
+#### Lab 9 : Image Augmentation & CNN Classification
 
 Topics Covered
 
@@ -109,7 +109,7 @@ Topics Covered
 * Classification Report
 * Performance Visualization
   
-### Lab 10 : Multi-Layer Perceptron (MLP)
+#### Lab 10 : Multi-Layer Perceptron (MLP)
 
 Topics Covered
 
@@ -118,7 +118,7 @@ Topics Covered
 * Dense Neural Networks
 * Model Evaluation
 
-### Lab 11 : One-Dimensional CNN
+#### Lab 11 : One-Dimensional CNN
 
 Topics Covered
 
@@ -127,7 +127,7 @@ Topics Covered
 * Feature Extraction
 * Time-Series Forecasting
 
-### Lab 12 : Long Short-Term Memory (LSTM)
+#### Lab 12 : Long Short-Term Memory (LSTM)
 
 Topics Covered
 
@@ -137,7 +137,7 @@ Topics Covered
 * Fine-Tuning
 * Performance Evaluation
 
-Course Objectives:
+### Course Objectives:
 
 * Learn Python programming for Machine Learning.
 * Perform data preprocessing and feature engineering.
@@ -148,15 +148,15 @@ Course Objectives:
 * Apply machine learning techniques to computer vision and time-series forecasting.
 * Evaluate models using standard performance metrics.
 
-Topics Covered:
+### Topics Covered in Machine Learning:
 
-### Python for Machine Learning
+#### Python for Machine Learning
 
 * NumPy
 * Pandas
 * Matplotlib
 
-### Data Preprocessing
+#### Data Preprocessing
 
 * Missing Value Handling
 * Duplicate Removal
@@ -168,14 +168,14 @@ Topics Covered:
 * One-Hot Encoding
 * Cyclic Feature Encoding
 
-### Machine Learning
+#### Machine Learning
 
 * Linear Regression
 * Gradient Descent
 * Polynomial Regression
 * Underfitting vs Overfitting
 
-### Computer Vision
+#### Computer Vision
 
 * Image Dataset Preparation
 * Image Classification
@@ -186,19 +186,19 @@ Topics Covered:
 * Confusion Matrix
 * Classification Report
 
-### Deep Learning for Time Series
+#### Deep Learning for Time Series
 
 * Multi-Layer Perceptron (MLP)
 * 1D Convolutional Neural Networks (1D CNN)
 * Long Short-Term Memory (LSTM)
 * Model Fine-Tuning
 
-Datasets Used:
+### Datasets Used:
 
 * American Electric Power (AEP) Hourly Electricity Consumption Dataset
 * Corn Leaf Disease Image Dataset
 
-Evaluation Metrics:
+### Evaluation Metrics:
 
 Different laboratories use appropriate evaluation metrics, including:
 
@@ -215,7 +215,7 @@ Different laboratories use appropriate evaluation metrics, including:
 * R² Score
 * Explained Variance Score
 
-Technologies Used:
+### Technologies Used:
 
 * Python
 * Jupyter Notebook
@@ -229,7 +229,7 @@ Technologies Used:
 * OpenCV
 * Pickle
 
-Getting Started:
+### Getting Started:
 
 1. Clone the Repository
 2. Install Required Libraries
@@ -238,7 +238,7 @@ Getting Started:
 
 Each laboratory is organized into its own folder. Open the desired notebook (.ipynb) and run the cells sequentially.
 
-Learning Outcomes:
+### Learning Outcomes:
 
 After completing these laboratory experiments, students will be able to:
 
@@ -253,6 +253,6 @@ After completing these laboratory experiments, students will be able to:
 * Evaluate and compare machine learning models using standard metrics.
 * Gain practical experience with real-world datasets.
 
-License:
+### License:
 
 This repository is submitted for **academic and educational purposes** as part of the **Introduction to Machine Learning Laboratory** course.
