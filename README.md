@@ -148,51 +148,6 @@ Topics Covered
 * Apply machine learning techniques to computer vision and time-series forecasting.
 * Evaluate models using standard performance metrics.
 
-### Topics Covered in Machine Learning:
-
-#### Python for Machine Learning
-
-* NumPy
-* Pandas
-* Matplotlib
-
-#### Data Preprocessing
-
-* Missing Value Handling
-* Duplicate Removal
-* Outlier Detection (IQR)
-* Data Cleaning
-* Feature Engineering
-* Correlation Analysis
-* Normalization
-* One-Hot Encoding
-* Cyclic Feature Encoding
-
-#### Machine Learning
-
-* Linear Regression
-* Gradient Descent
-* Polynomial Regression
-* Underfitting vs Overfitting
-
-#### Computer Vision
-
-* Image Dataset Preparation
-* Image Classification
-* Convolutional Neural Networks (CNN)
-* Image Augmentation
-* Batch Normalization
-* Dropout
-* Confusion Matrix
-* Classification Report
-
-#### Deep Learning for Time Series
-
-* Multi-Layer Perceptron (MLP)
-* 1D Convolutional Neural Networks (1D CNN)
-* Long Short-Term Memory (LSTM)
-* Model Fine-Tuning
-
 ### Datasets Used:
 
 * American Electric Power (AEP) Hourly Electricity Consumption Dataset
